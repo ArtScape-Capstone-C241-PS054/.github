@@ -1,7 +1,7 @@
 
 # ArtScape Bangkit Capstone Project Team
 
-![logo bangkit](https://github.com/ArtScape-Capstone-C241-PS054/.github/assets/159027110/fc0ddd84-9646-4ced-816d-a9bfb20e3943)
+![logo bangkit](https://github.com/ArtScape-Capstone-C241-PS054/.github/assets/159027110/bf1a6bc9-5087-40d7-ab94-b5401bfc286c)
 -
 
 ## Team Member
