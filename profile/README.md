@@ -5,8 +5,8 @@ Welcome to ArtScape, an Android application designed to connect artists and art 
 
 ArtScape is designed to describe the purpose of your app. It provides users with a description of the main functionalities or benefits to enhance their experience.
 
-##Logo
-![ArtScape](https://github.com/ArtScape-Capstone-C241-PS054/.github/assets/159027110/e1b43481-b0ac-4a12-9154-72183301e524)
+## Logo
+<img src="https://github.com/Joevandyta/ArtScape/assets/108873685/2e8937fd-520b-4e7c-ab26-cf61df89b687" alt="Logo" style="width:200px;"/>
 
 ### Filosofi
 
